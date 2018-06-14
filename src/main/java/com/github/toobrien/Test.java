@@ -21,7 +21,6 @@ public class Test {
     String res = func.handleRequest("some input...");
     
     System.out.println("result: " + res);
-
   }
 
 }
